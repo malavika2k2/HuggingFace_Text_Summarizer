@@ -1,0 +1,1 @@
+A text summarization tool built using the Hugging Face Transformers library. This project demonstrates proficiency in Natural Language Processing (NLP) by using a pre-trained model to condense long blocks of text into concise summaries.
